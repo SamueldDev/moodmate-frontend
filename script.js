@@ -1,6 +1,6 @@
 
 
-const API_URL = 'http://localhost:3000/api/suggestions'; // ← Replace with your actual backend
+const API_URL = 'https://moodmate-production.up.railway.app/api/suggestions'; 
 
 const container = document.getElementById('suggestions-container');
 
